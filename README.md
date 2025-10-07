@@ -69,10 +69,11 @@ I believe every line of code is a chance to create something meaningful, elegant
 
 ---
 
-### 🤝 Let's Connect  
-💬 I'm always open to collaborating on exciting projects, sharing knowledge, or discussing technology trends.  
-📧 _Feel free to reach out and let's create something amazing together!_  
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci  
+### 🤝 Let's Connect  
+💬 Open to collaboration, knowledge sharing, and new opportunities.  
+📧 Let’s connect, learn, and create something amazing together!  
+
+> *“Stay curious, stay passionate, and keep building.”*
 
 </div>
