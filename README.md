@@ -13,10 +13,10 @@ _"If everything is easy, where is your value?"_ ✨
 ---
 
 ### 🚀 About Me  
-I'm a passionate full-stack developer dedicated to building reliable, scalable, and user-focused applications.  
-I enjoy solving complex problems, optimizing performance, and continuously learning new technologies to stay ahead in the tech world.  
+I'm a passionate **developer and lifelong learner** who enjoys exploring the intersection between creativity and technology.  
+I believe every line of code is a chance to create something meaningful, elegant, and user-centered.  
 
-💡 _“The best way to predict the future is to create it.”_  
+💡 *“Strive for progress, not perfection.”*  
 
 ---
 
