@@ -10,7 +10,6 @@ _"If everything is easy, where is your value?"_ ✨
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/tranvandu19971029/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tranvandu1997101)
 </div>
----
 
 ### 🚀 About Me  
 I'm a passionate **developer and lifelong learner** who enjoys exploring the intersection between creativity and technology.  
