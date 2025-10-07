@@ -4,7 +4,7 @@
 
 ### 💻 Full-stack Developer | 🧠 Problem Solver | 🚀 Continuous Learner  
 
-_"Bugs are not roadblocks, they're opportunities for growth."_ ✨  
+_"If everything is easy, where is your value?"_ ✨  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_link)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your_facebook_link)
